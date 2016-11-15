@@ -1,0 +1,120 @@
+﻿ -----------------Solicitud de Licencia-------------------
+
+DATOS DEL SOLICITANTE
+
+Nombre o Razón social: Daniel
+Tipo de identificacion: NIT   Número: 34567
+Teléfono: 2346546
+Representante Legal: Ramiro
+Número de identificación: 834234023
+
+DATOS PROYECTO
+
+Nombre del proyecto: AguaClara
+Sector: Forestal
+Tipo de proyecto, obra o actividad: vertimiento
+Valor estimado del proyecto: 123455
+
+LOCALIZACIÓN DEL PROYECTO
+
+Region: Pacífica
+Departamento: Chocó
+Municipio: Bojayá
+Vereda o corregimiento: Carrillo
+
+ -----------------Solicitud de Licencia-------------------
+
+DATOS DEL SOLICITANTE
+
+Nombre o Razón social: cardaos
+Tipo de identificacion: NIT   Número: 342354354
+Teléfono: 2343234
+Representante Legal: andres
+Número de identificación: 343248423
+
+DATOS PROYECTO
+
+Nombre del proyecto: tierritas
+Sector: Forestal
+Tipo de proyecto, obra o actividad: tala
+Valor estimado del proyecto: 234352
+
+LOCALIZACIÓN DEL PROYECTO
+
+Region: Orinoquía
+Departamento: Guaviare
+Municipio: San José del Guaviare
+Vereda o corregimiento: Yarumales
+
+ -----------------Solicitud de Licencia-------------------
+
+DATOS DEL SOLICITANTE
+
+Nombre o Razón social: Camila
+Tipo de identificacion: NIT   Número: 34234
+Teléfono: 34234
+Representante Legal: Guillermo
+Número de identificación: 32423432
+
+DATOS PROYECTO
+
+Nombre del proyecto: Airesitos
+Sector: Mineral
+Tipo de proyecto, obra o actividad: saca
+Valor estimado del proyecto: 234231
+
+LOCALIZACIÓN DEL PROYECTO
+
+Region: Amazonía
+Departamento: Caquetá
+Municipio: Milán
+Vereda o corregimiento: California
+
+ -----------------Solicitud de Licencia-------------------
+
+DATOS DEL SOLICITANTE
+
+Nombre o Razón social: Juan
+Tipo de identificacion: C.C   Número: 123224435
+Teléfono: 234325
+Representante Legal: camilo
+Número de identificación: 763242364
+
+DATOS PROYECTO
+
+Nombre del proyecto: forestalcito
+Sector: Forestal
+Tipo de proyecto, obra o actividad: sdasd
+Valor estimado del proyecto: 343243243
+
+LOCALIZACIÓN DEL PROYECTO
+
+Region: Pacífica
+Departamento: Chocó
+Municipio: Quibdó
+Vereda o corregimiento: Pacurita
+
+ -----------------Solicitud de Licencia-------------------
+
+DATOS DEL SOLICITANTE
+
+Nombre o Razón social: juan
+Tipo de identificacion: C.C   Número: 12345
+Teléfono: 2344
+Representante Legal: wedewd
+Número de identificación: 23434
+
+DATOS PROYECTO
+
+Nombre del proyecto: dsfdsf
+Sector: Forestal
+Tipo de proyecto, obra o actividad: sdfdfds
+Valor estimado del proyecto: 3243432
+
+LOCALIZACIÓN DEL PROYECTO
+
+Region: Pacífica
+Departamento: Chocó
+Municipio: Quibdó
+Vereda o corregimiento: Pacurita
+

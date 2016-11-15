@@ -1,0 +1,4 @@
+|﻿Daniel|34567|AguaClara|Forestal|En estudio
+|cardaos|342354354|tierritas|Forestal|Rechazado
+Juan|123224435|forestalcito|Forestal|Recibido
+juan|12345|dsfdsf|Forestal|Recibido
